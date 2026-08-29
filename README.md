@@ -5,7 +5,7 @@ fiz projetos relacionados à área de Tecnologia da Informação ex.: Aplicativo
 Desenvolvimento de Games, etc. Estou programando em Python, HTML, entre outras
 linguagens de programação.
 
-https://www.instagram.com/henriquers-dev
+https://www.instagram.com/henriquers.dev
 
 https://www.instagram.com/henriqueerss
 
