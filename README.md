@@ -2,11 +2,11 @@
 Autista, Estudante de Ciência da Computação na UniFECAF e formado em Gestão de T.I. 
 na UniFECAF e atualmente trabalhando no Carrefour do Shopping Taboão da Serra. Já 
 fiz projetos relacionados à área de Tecnologia da Informação ex.: Aplicativo Mobile, 
-Desenvolvimento de Games, etc. Estou programando em Python, C, HTML, entre outras
-linguagens aí.
+Desenvolvimento de Games, etc. Estou programando em Python, HTML, entre outras
+linguagens de programação.
 
 https://www.instagram.com/henriquers-dev
 
-https://www.instagram.com/henriqueerss\n
+https://www.instagram.com/henriqueerss
 
 https://www.linkedin.com/in/henrique-ribeiro-siqueira-b231b61aa/
