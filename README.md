@@ -5,6 +5,6 @@ fiz projetos relacionados à área de Tecnologia da Informação ex.: Aplicativo
 Desenvolvimento de Games, etc. Estou programando em Python, C, HTML, entre outras
 linguagens aí.
 
-https://www.instagram.com/henriquers-dev
-https://www.instagram.com/henriqueerss
+https://www.instagram.com/henriquers-dev\n
+https://www.instagram.com/henriqueerss\n
 https://www.linkedin.com/in/henrique-ribeiro-siqueira-b231b61aa/
