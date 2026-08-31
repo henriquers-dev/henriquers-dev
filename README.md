@@ -16,7 +16,7 @@ linguagens de programação.
   
   
   Whatsapp: 
-    - +55 (11) 99392-7040
+    - +55(11) 99392-7040
 
   
   LinkedIn:
