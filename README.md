@@ -10,13 +10,13 @@ linguagens de programação.
 
 # Conecte-se comigo:
   - Instagram:
-      "https://www.instagram.com/henriquers.dev"
-      "https://www.instagram.com/henriqueerss"
+      • https://www.instagram.com/henriquers.dev
+      • https://www.instagram.com/henriqueerss
   
   
   - Whatsapp: 
-      "+55(11) 99392-7040"
+      • +55(11) 99392-7040
 
   
   - LinkedIn:
-      "https://www.linkedin.com/in/henrique-ribeiro-siqueira-b231b61aa/"
+      • https://www.linkedin.com/in/henrique-ribeiro-siqueira-b231b61aa/
