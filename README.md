@@ -14,5 +14,4 @@ linguagens de programação.
   Whatsapp: (11) 99392-7040
   
   LinkedIn:
-    
     - https://www.linkedin.com/in/henrique-ribeiro-siqueira-b231b61aa/
