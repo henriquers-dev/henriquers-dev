@@ -3,7 +3,8 @@ Autista, Estudante de Ciência da Computação na UniFECAF e formado em Gestão 
 na UniFECAF e atualmente trabalhando no Carrefour do Shopping Taboão da Serra. Já 
 fiz projetos relacionados à área de Tecnologia da Informação ex.: Aplicativo Mobile, 
 Desenvolvimento de Games, etc. Estou programando em Python, HTML, entre outras
-linguagens de programação.
+linguagens de programação. Porém estou procurando emprego na área de Tecnologia,
+Programação e Desenvolvimento de Software.
 
 
 
