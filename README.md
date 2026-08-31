@@ -1,4 +1,5 @@
-Olá, fique a vontade para conhecer meu Github.
+# Introdução:
+Olá, tudo bem? Fique a vontade para conhecer meu Github.
 
 # Biografia:
 Autista, Estudante de Ciência da Computação na UniFECAF e formado em Gestão de T.I. 
