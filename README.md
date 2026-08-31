@@ -7,8 +7,9 @@ linguagens de programação.
 
 
 # Conecte-se comigo:
-https://www.instagram.com/henriquers.dev
+Instagram: 
+  - https://www.instagram.com/henriquers.dev
+  - https://www.instagram.com/henriqueerss
 
-https://www.instagram.com/henriqueerss
-
-https://www.linkedin.com/in/henrique-ribeiro-siqueira-b231b61aa/
+LinkedIn:
+  - https://www.linkedin.com/in/henrique-ribeiro-siqueira-b231b61aa/
