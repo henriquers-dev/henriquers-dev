@@ -6,7 +6,7 @@ Desenvolvimento de Games, etc. Estou programando em Python, HTML, entre outras
 linguagens de programação.
 
 
-# Saiba mais sobre mim:
+# Conecte-se comigo:
 https://www.instagram.com/henriquers.dev
 
 https://www.instagram.com/henriqueerss
